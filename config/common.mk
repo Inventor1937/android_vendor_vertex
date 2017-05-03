@@ -101,14 +101,8 @@ PRODUCT_PACKAGES += \
 
 # Custom Vertex packages
 PRODUCT_PACKAGES += \
-    ExactCalculator \
     Launcher3 \
-    LockClock \
     ThemeInterfacer	
-
-# Exchange support
-PRODUCT_PACKAGES += \
-    Exchange2
 
 # Extra tools in Vertex
 PRODUCT_PACKAGES += \
