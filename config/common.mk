@@ -1,6 +1,6 @@
 # Boot Animation - Black Google Pixel
-PRODUCT_COPY_FILES += \
-    vendor/vertex/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
+# PRODUCT_COPY_FILES += \
+#    vendor/vertex/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 
